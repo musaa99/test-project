@@ -1,0 +1,65 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/page",{
+
+/***/ "(app-pages-browser)/../node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Cimage-component.js&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Cnode_modules%5Ctailwindcss%5Ctailwind.css&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Cassets%5Ccall1.svg&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Cassets%5Ccall2.svg&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Cassets%5Ccall3.svg&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Cassets%5CVector.svg&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Ccomponents%5CNavbar%5Cstyles.module.scss&server=false!":
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ../node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Cimage-component.js&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Cnode_modules%5Ctailwindcss%5Ctailwind.css&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Cassets%5Ccall1.svg&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Cassets%5Ccall2.svg&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Cassets%5Ccall3.svg&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Cassets%5CVector.svg&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Ccomponents%5CNavbar%5Cstyles.module.scss&server=false! ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ../node_modules/next/dist/client/image-component.js */ \"(app-pages-browser)/../node_modules/next/dist/client/image-component.js\", 23));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ../node_modules/tailwindcss/tailwind.css */ \"(app-pages-browser)/../node_modules/tailwindcss/tailwind.css\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./assets/call1.svg */ \"(app-pages-browser)/./assets/call1.svg\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./assets/call2.svg */ \"(app-pages-browser)/./assets/call2.svg\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./assets/call3.svg */ \"(app-pages-browser)/./assets/call3.svg\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./assets/Vector.svg */ \"(app-pages-browser)/./assets/Vector.svg\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./components/Navbar/styles.module.scss */ \"(app-pages-browser)/./components/Navbar/styles.module.scss\", 23))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9QyUzQSU1Q1VzZXJzJTVDbXVzYSU1Q0Rlc2t0b3AlNUN0ZXN0LXByb2plY3QlNUNub2RlX21vZHVsZXMlNUNuZXh0JTVDZGlzdCU1Q2NsaWVudCU1Q2ltYWdlLWNvbXBvbmVudC5qcyZtb2R1bGVzPUMlM0ElNUNVc2VycyU1Q211c2ElNUNEZXNrdG9wJTVDdGVzdC1wcm9qZWN0JTVDbm9kZV9tb2R1bGVzJTVDdGFpbHdpbmRjc3MlNUN0YWlsd2luZC5jc3MmbW9kdWxlcz1DJTNBJTVDVXNlcnMlNUNtdXNhJTVDRGVza3RvcCU1Q3Rlc3QtcHJvamVjdCU1Q3NyYyU1Q2Fzc2V0cyU1Q2NhbGwxLnN2ZyZtb2R1bGVzPUMlM0ElNUNVc2VycyU1Q211c2ElNUNEZXNrdG9wJTVDdGVzdC1wcm9qZWN0JTVDc3JjJTVDYXNzZXRzJTVDY2FsbDIuc3ZnJm1vZHVsZXM9QyUzQSU1Q1VzZXJzJTVDbXVzYSU1Q0Rlc2t0b3AlNUN0ZXN0LXByb2plY3QlNUNzcmMlNUNhc3NldHMlNUNjYWxsMy5zdmcmbW9kdWxlcz1DJTNBJTVDVXNlcnMlNUNtdXNhJTVDRGVza3RvcCU1Q3Rlc3QtcHJvamVjdCU1Q3NyYyU1Q2Fzc2V0cyU1Q1ZlY3Rvci5zdmcmbW9kdWxlcz1DJTNBJTVDVXNlcnMlNUNtdXNhJTVDRGVza3RvcCU1Q3Rlc3QtcHJvamVjdCU1Q3NyYyU1Q2NvbXBvbmVudHMlNUNOYXZiYXIlNUNzdHlsZXMubW9kdWxlLnNjc3Mmc2VydmVyPWZhbHNlISIsIm1hcHBpbmdzIjoiQUFBQSxzT0FBaUk7QUFDakksME1BQW9IO0FBQ3BILDhKQUFtRztBQUNuRyw4SkFBbUc7QUFDbkcsOEpBQW1HO0FBQ25HLGdLQUFvRztBQUNwRyIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvPzExN2IiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCJDOlxcXFxVc2Vyc1xcXFxtdXNhXFxcXERlc2t0b3BcXFxcdGVzdC1wcm9qZWN0XFxcXG5vZGVfbW9kdWxlc1xcXFxuZXh0XFxcXGRpc3RcXFxcY2xpZW50XFxcXGltYWdlLWNvbXBvbmVudC5qc1wiKTtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiQzpcXFxcVXNlcnNcXFxcbXVzYVxcXFxEZXNrdG9wXFxcXHRlc3QtcHJvamVjdFxcXFxub2RlX21vZHVsZXNcXFxcdGFpbHdpbmRjc3NcXFxcdGFpbHdpbmQuY3NzXCIpO1xuaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCJDOlxcXFxVc2Vyc1xcXFxtdXNhXFxcXERlc2t0b3BcXFxcdGVzdC1wcm9qZWN0XFxcXHNyY1xcXFxhc3NldHNcXFxcY2FsbDEuc3ZnXCIpO1xuaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCJDOlxcXFxVc2Vyc1xcXFxtdXNhXFxcXERlc2t0b3BcXFxcdGVzdC1wcm9qZWN0XFxcXHNyY1xcXFxhc3NldHNcXFxcY2FsbDIuc3ZnXCIpO1xuaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCJDOlxcXFxVc2Vyc1xcXFxtdXNhXFxcXERlc2t0b3BcXFxcdGVzdC1wcm9qZWN0XFxcXHNyY1xcXFxhc3NldHNcXFxcY2FsbDMuc3ZnXCIpO1xuaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCJDOlxcXFxVc2Vyc1xcXFxtdXNhXFxcXERlc2t0b3BcXFxcdGVzdC1wcm9qZWN0XFxcXHNyY1xcXFxhc3NldHNcXFxcVmVjdG9yLnN2Z1wiKTtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiQzpcXFxcVXNlcnNcXFxcbXVzYVxcXFxEZXNrdG9wXFxcXHRlc3QtcHJvamVjdFxcXFxzcmNcXFxcY29tcG9uZW50c1xcXFxOYXZiYXJcXFxcc3R5bGVzLm1vZHVsZS5zY3NzXCIpIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-pages-browser)/../node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Cimage-component.js&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Cnode_modules%5Ctailwindcss%5Ctailwind.css&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Cassets%5Ccall1.svg&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Cassets%5Ccall2.svg&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Cassets%5Ccall3.svg&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Cassets%5CVector.svg&modules=C%3A%5CUsers%5Cmusa%5CDesktop%5Ctest-project%5Csrc%5Ccomponents%5CNavbar%5Cstyles.module.scss&server=false!\n"));
+
+/***/ }),
+
+/***/ "(app-pages-browser)/../node_modules/tailwindcss/tailwind.css":
+/*!************************************************!*\
+  !*** ../node_modules/tailwindcss/tailwind.css ***!
+  \************************************************/
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"04c9c27e492a\");\nif (true) { module.hot.accept() }\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uLi9ub2RlX21vZHVsZXMvdGFpbHdpbmRjc3MvdGFpbHdpbmQuY3NzIiwibWFwcGluZ3MiOiI7QUFBQSwrREFBZSxjQUFjO0FBQzdCLElBQUksSUFBVSxJQUFJLGlCQUFpQiIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvLi4vbm9kZV9tb2R1bGVzL3RhaWx3aW5kY3NzL3RhaWx3aW5kLmNzcz9hNDU3Il0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0IFwiMDRjOWMyN2U0OTJhXCJcbmlmIChtb2R1bGUuaG90KSB7IG1vZHVsZS5ob3QuYWNjZXB0KCkgfVxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-pages-browser)/../node_modules/tailwindcss/tailwind.css\n"));
+
+/***/ }),
+
+/***/ "(app-pages-browser)/./assets/call1.svg":
+/*!**************************!*\
+  !*** ./assets/call1.svg ***!
+  \**************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\"src\":\"/_next/static/media/call1.3870a841.svg\",\"height\":37,\"width\":64,\"blurWidth\":0,\"blurHeight\":0});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL2Fzc2V0cy9jYWxsMS5zdmciLCJtYXBwaW5ncyI6IjtBQUFBLCtEQUFlLENBQUMsbUdBQW1HIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8uL2Fzc2V0cy9jYWxsMS5zdmc/ZDMwYSJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCB7XCJzcmNcIjpcIi9fbmV4dC9zdGF0aWMvbWVkaWEvY2FsbDEuMzg3MGE4NDEuc3ZnXCIsXCJoZWlnaHRcIjozNyxcIndpZHRoXCI6NjQsXCJibHVyV2lkdGhcIjowLFwiYmx1ckhlaWdodFwiOjB9OyJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(app-pages-browser)/./assets/call1.svg\n"));
+
+/***/ }),
+
+/***/ "(app-pages-browser)/./assets/call2.svg":
+/*!**************************!*\
+  !*** ./assets/call2.svg ***!
+  \**************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\"src\":\"/_next/static/media/call2.e73aa7d9.svg\",\"height\":37,\"width\":67,\"blurWidth\":0,\"blurHeight\":0});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL2Fzc2V0cy9jYWxsMi5zdmciLCJtYXBwaW5ncyI6IjtBQUFBLCtEQUFlLENBQUMsbUdBQW1HIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8uL2Fzc2V0cy9jYWxsMi5zdmc/NDE0YSJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCB7XCJzcmNcIjpcIi9fbmV4dC9zdGF0aWMvbWVkaWEvY2FsbDIuZTczYWE3ZDkuc3ZnXCIsXCJoZWlnaHRcIjozNyxcIndpZHRoXCI6NjcsXCJibHVyV2lkdGhcIjowLFwiYmx1ckhlaWdodFwiOjB9OyJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(app-pages-browser)/./assets/call2.svg\n"));
+
+/***/ }),
+
+/***/ "(app-pages-browser)/./assets/call3.svg":
+/*!**************************!*\
+  !*** ./assets/call3.svg ***!
+  \**************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\"src\":\"/_next/static/media/call3.f1d394d8.svg\",\"height\":37,\"width\":67,\"blurWidth\":0,\"blurHeight\":0});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL2Fzc2V0cy9jYWxsMy5zdmciLCJtYXBwaW5ncyI6IjtBQUFBLCtEQUFlLENBQUMsbUdBQW1HIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8uL2Fzc2V0cy9jYWxsMy5zdmc/ZjllNiJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCB7XCJzcmNcIjpcIi9fbmV4dC9zdGF0aWMvbWVkaWEvY2FsbDMuZjFkMzk0ZDguc3ZnXCIsXCJoZWlnaHRcIjozNyxcIndpZHRoXCI6NjcsXCJibHVyV2lkdGhcIjowLFwiYmx1ckhlaWdodFwiOjB9OyJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(app-pages-browser)/./assets/call3.svg\n"));
+
+/***/ })
+
+});
